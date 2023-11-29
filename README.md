@@ -18,7 +18,7 @@ Us and them together.
 
 ## Installation
 ```bash
-git clone git@github.com:marttop/Together.git
+git clone git@github.com:lionelrs/Together.git
 cd Together && make
 ```
 
